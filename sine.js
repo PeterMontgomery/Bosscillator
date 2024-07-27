@@ -13,6 +13,7 @@ function setup() {
 
 
 function draw() {
+  //getting my pushes in
   background(220);
   stroke(4);
   noFill();
